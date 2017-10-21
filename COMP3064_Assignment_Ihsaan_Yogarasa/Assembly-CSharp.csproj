@@ -51,7 +51,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\2D Fantasy Character Pack\animate.cs" />
      <Compile Include="Assets\Scrpts\BackgroundController.cs" />
      <Compile Include="Assets\Scrpts\BuffController.cs" />
      <Compile Include="Assets\Scrpts\CharacterCollision.cs" />
